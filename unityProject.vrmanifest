@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.project_2_jgp.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "C:\\Users\\VR2018Class\\Desktop\\JGP Proj2\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "Proj2 [Testing]"
+        }
+      }
+    }
+  ]
+}
