@@ -8,7 +8,7 @@ Real world objects are tracked using outside-in tracking, then, when a real worl
 This novel interaction method allows for the weight of an object to add a stronger sense of kinesthetic movement.
 
 # The Game
-The player with a steamVR is sent into a virtual lab room where they can fight invading monsters using a hammer, magic sword, or magic staff.
+The player with a steamVR headset is sent into a virtual lab room where they can fight invading monsters using a hammer, magic sword, or magic staff.
 
 # Environment Layout
 ![Running Image](images/Optitrack1.png)
